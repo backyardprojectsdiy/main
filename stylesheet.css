@@ -1,4 +1,5 @@
 .background {
     background-image: url(./images/homepagefirepit.png);
     height: 600px;
+    background-repeat: no-repeat;
 }
