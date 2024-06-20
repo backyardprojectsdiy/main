@@ -1,5 +1,5 @@
 .bg-image {
     background-image: url(./images/homepagefirepit.png);
-    height: 600px;
+    height: 100vh;
     background-repeat: no-repeat;
 }
