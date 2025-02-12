@@ -1,6 +1,6 @@
 #background-video {
     width: 50vw;
-    height: 75vh;
+    height: 25vh;
     object-fit: cover;
     position: relative;
     z-index: -1;
