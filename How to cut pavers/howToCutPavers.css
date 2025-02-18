@@ -37,3 +37,15 @@
     font-size: 16px;
     font-weight: bold;
 }
+
+@media (max-width: 768px) {
+    .icon-box {
+        flex: 1 1 45%; /* 2 icons per row on tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    .icon-box {
+        flex: 1 1 100%; /* 1 icon per row on mobile */
+    }
+}
