@@ -70,3 +70,19 @@
 .imageCarousel {
     margin-bottom: 4rem;
 }
+
+footer {
+    height: 2.5rem;
+    display:flex;
+    align-items: center;
+    width: 100%
+}
+
+footer a {
+    color: #27374D;
+    font-size: 1rem;
+    font-family: 'raleway';
+    margin-left: 5rem;
+    text-align: center;
+    margin-top: 2rem;
+}
