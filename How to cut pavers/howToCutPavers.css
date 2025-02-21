@@ -1,3 +1,7 @@
+.img-fluid{
+    background-repeat: no-repeat;
+}
+
 #background-video {
     width: 50vw;
     height: 50vh;
